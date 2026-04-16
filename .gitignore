@@ -49,5 +49,5 @@ gvm_core/weights/*
 !gvm_core/weights/.gitkeep
 BiRefNetModule/checkpoints/*
 !BiRefNetModule/checkpoints/.gitkeep
-
+calibration_frames/*
 site
