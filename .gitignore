@@ -50,4 +50,10 @@ gvm_core/weights/*
 BiRefNetModule/checkpoints/*
 !BiRefNetModule/checkpoints/.gitkeep
 calibration_frames/*
+!calibration_frames/.gitkeep
+
+# Edge deployment model cache
+models/*
+!models/.gitkeep
+
 site
